@@ -1,0 +1,16 @@
+module.exports =  async function DeFiProtocols() {
+    return [
+        {
+            name: "Anchor",
+            image: "https://cdn-images-1.medium.com/max/280/1*9hcgM_ns4W40-xDvtCZESQ@2x.png",
+            APY: {
+              percentage: 16,
+              text: "16%"
+            },
+            acceptedCurrency: {
+                currency: "UST",
+                image: "https://s2.coinmarketcap.com/static/img/coins/200x200/7129.png"
+            }
+        }
+    ]
+}

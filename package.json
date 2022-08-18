@@ -1,0 +1,30 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.0",
+    "@anchor-protocol/anchor-earn": "^2.0.0-alpha1",
+    "@terra-money/terra.js": "^3.0.7",
+    "@types/lodash": "^4.14.179",
+    "@uniswap/sdk-core": "^3.0.1",
+    "@uniswap/v3-sdk": "^3.8.2",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.4",
+    "express": "^4.17.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "16.14.0"
+  }
+}
