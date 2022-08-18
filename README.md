@@ -13,7 +13,7 @@ v16.14.0
 ### Clone the repo
 
 ```bash
-$> git clone git@bitbucket.org:flan-fund/fl-playground.git
+$> https://github.com/krishnatejakvs/flan_playground.git
 $> cd fl-playground
 ```
 
